@@ -9,7 +9,7 @@ Yet, deploying a central server is not always feasible due to hardware unavailab
 We present Plexus, a fully decentralized FL system for large networks that operates without the drawbacks originating from having a central server.
 Plexus distributes the responsibilities of model aggregation and sampling among participating nodes while avoiding network-wide coordination.
 We evaluate Plexus using realistic traces for compute speed, pairwise latency and network capacity.
-Our experiments on three common learning tasks and with up to 1000 nodes empirically show that Plexus reduces time-to-accuracy by 1.4-1.6x, communication volume by 15.8-292$x and training resources needed for convergence by 30.5-77.9$x compared to conventional decentralized learning algorithms.
+Our experiments on three common learning tasks and with up to 1000 nodes empirically show that Plexus reduces time-to-accuracy by 1.4-1.6x, communication volume by 15.8-292x and training resources needed for convergence by 30.5-77.9x compared to conventional decentralized learning algorithms.
 
 ## Installation
 
