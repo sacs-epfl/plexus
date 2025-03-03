@@ -1,5 +1,5 @@
 # Plexus: Practical Federated Learning without a Server
-Repository for the source code of our paper *[Practical Federated Learning without a Server](https://arxiv.org/pdf/2302.13837)* published at [The Workshop on Machine Learning and System 2025](https://euromlsys.eu/#).
+Repository for the source code of our paper *[Practical Federated Learning without a Server](https://arxiv.org/pdf/2302.13837)* published in the [Proceedings of the 5th Workshop on Machine Learning and Systems (EuroMLSys)](https://euromlsys.eu/#).
 
 ## Abstract
 
