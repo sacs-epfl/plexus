@@ -1,0 +1,7 @@
+torch
+torchvision
+libnacl
+cryptography
+dataclasses_json
+yappi
+netifaces
