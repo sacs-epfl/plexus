@@ -68,7 +68,7 @@ python3 -u simulations/plexus/femnist.py \
 ```
 
 You can modify the path to the datasets with the `--dataset-base-path` argument.
-You can speed up the experiment executing by enabling cuda by passing `--train-device-name "cuda:0" --accuracy-device-name "cuda:0"`.
+You can speed up the experiment execution by enabling CUDA by passing `--train-device-name "cuda:0" --accuracy-device-name "cuda:0"`.
 Since the experiment outputs quite a lot of logging, we also recommend to increase the log level for longer experiments.
 
 To run the Federated Learning (FL) baseline, it suffices to pass the `--fix-aggregator` flag to the above commands, which will select a random peer to act as server and sets the bandwidth of this server to infinity.
