@@ -16,7 +16,7 @@ Our experiments on three common learning tasks and with up to 1000 nodes empiric
 Start by cloning the repository recursively (since Plexus depends on the PyIPv8 networking library):
 
 ```
-git clone git@github.com:sacs-epfl/plexus.git --recursive
+git clone https://github.com/sacs-epfl/plexus --recursive
 ```
 
 Install the required dependencies (preferably in a virtual environment to avoid conflicts with existing libraries):
